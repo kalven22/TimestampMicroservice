@@ -16,7 +16,8 @@ These instructions will get you a copy of the project up and running on your loc
 5). Success, you will be served with index.html file on your brower window. 
 ```
 ### Live Testing in your browser 
-#### Thanks to Glitch
+
 ```
 https://tested-spirit.glitch.me/
 ```
+###### Thanks to Glitch
