@@ -1,0 +1,15 @@
+{
+  "name": "timestampmicroservice",
+  "version": "1.0.0",
+  "description": "This project is developed for freecodecamp submission purposes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "kalven22",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
