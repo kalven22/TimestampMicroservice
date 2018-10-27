@@ -6,7 +6,6 @@ This project is part of freecodecamp final Node.js projects.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-
 ### Testing on your local system
 
 ```
@@ -16,4 +15,8 @@ These instructions will get you a copy of the project up and running on your loc
 4). Head to localhost:1000 in the choice of your web browser.
 5). Success, you will be served with index.html file on your brower window. 
 ```
+### Live Testing in your browser
 
+```
+https://tested-spirit.glitch.me/
+```
