@@ -2,16 +2,11 @@ var express = require("express");
 var app = express();
 var util = require("util");
 
-
-
-
-
 app.use(express.static("./public/"));
 
 app.get('/', (req, res)=>{
     res.send("");
 });
-
 
 app.get('/api/timestamp/:date_string', (req, res)=>{
     var valueCaught = req.params.date_string;
